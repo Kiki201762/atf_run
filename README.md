@@ -36,8 +36,8 @@ Dua mode / varian script:
 
 | File | Mode | Deskripsi |
 |------|------|-----------|
-| `bot_runner_tasks.py` | **Tasks** | Login → kerjakan task → claim mining. Cocok untuk bot airdrop yang butuh task. |
-| `bot_runner_autoclicker.py` | **Auto-clicker** | Fokus auto-claim mining rutin (tiap 10 menit default) + claim saat reward mencapai threshold. Tidak mengerjakan task. |
+| `tasks.py` | **Tasks** | Login → kerjakan task → claim mining. Cocok untuk bot airdrop yang butuh task. |
+| `claim.py` | **Auto-clicker** | Fokus auto-claim mining rutin (tiap 10 menit default) + claim saat reward mencapai threshold. Tidak mengerjakan task. |
 
 `generate_sessions.py` — tool untuk membuat session string Telegram (sekali pakai, ingat session tersimpan otomatis).
 
