@@ -10,8 +10,8 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.tl.functions.messages import RequestWebViewRequest
 
-API_ID = 33536389
-API_HASH = "916c4272b50ee8e6b76d41416f2756d6"
+API_ID = 
+API_HASH = ""
 BOT_USERNAME = "ATF_AIRDROP_bot"
 BASE_URL = "https://atfminers.asloni.online/miner/index.php"
 
