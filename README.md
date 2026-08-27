@@ -58,9 +58,9 @@ Dua mode / varian script:
 
 ```
 atf_run/
-├── bot_runner_tasks.py        # Mode tasks
-├── bot_runner_autoclicker.py  # Mode auto-claim / auto-clicker
-├── generate_sessions.py       # Generator session string
+├── tasks.py        # Mode tasks
+├── claim.py  # Mode auto-claim / auto-clicker
+├── session.py       # Generator session string
 ├── requirements.txt           # Dependensi Python
 ├── accounts.json              # Data akun (JANGAN di-commit) — dikosongkan di repo
 ├── proxies.txt                # Daftar proxy (JANGAN di-commit)
